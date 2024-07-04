@@ -14,14 +14,7 @@
 - ⚡ visiting [my resume](https://www.linkedin.com/in/dagliogerardo/)
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Gerardo19D80">
-  <img height="180em" src=""/>
-  <img height="180em" src=""/>
-</a>
-</p>
+### ⚙️ GitHub status
 
 <div  align = "center">
 <img width="15%" src="https://static.wixstatic.com/media/15dec0_9521a58cadcc41f68611211a8e805160~mv2.png">
