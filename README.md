@@ -1,16 +1,28 @@
-## Hi there 👋
+#### GERARDO DAGLIO SAY YOU HELLO👋
+## Thanks for your interest in my profile. 
+<img src="https://static.wixstatic.com/media/15dec0_f08304e9f54a4d5aa46b53bd677cdef2~mv2.png">
 
-<!--
-**Gerardo19D80/Gerardo19D80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## about me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently selling content in the entertainment industry, and studing the CTD | Certified Tech Developer at Digital House.
+- 🌱 I’m currently learning about React.
+- 👯 I’m looking tools to collaborate on the final proyect that we have at the CTD.
+- 🤔 I’m looking for help with Backend tools.
+
+- 📫 How to reach me: gdaglio@gmail.com or,
+- ⚡ visiting [my resume](https://www.linkedin.com/in/dagliogerardo/)
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Gerardo19D80">
+  <img height="180em" src=""/>
+  <img height="180em" src=""/>
+</a>
+</p>
+
+<div  align = "center">
+<img width="15%" src="https://static.wixstatic.com/media/15dec0_9521a58cadcc41f68611211a8e805160~mv2.png">
+</div>
