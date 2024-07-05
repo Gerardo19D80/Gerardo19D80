@@ -16,6 +16,8 @@
 
 ### ⚙️ GitHub status
 
+[![Gerardo's github stats](https://github-readme-stats.vercel.app/api?username=Gerardo19D80)](https://github.com/anuraghazra/github-readme-stats)
+
 <div  align = "center">
 <img width="15%" src="https://static.wixstatic.com/media/15dec0_9521a58cadcc41f68611211a8e805160~mv2.png">
 </div>
